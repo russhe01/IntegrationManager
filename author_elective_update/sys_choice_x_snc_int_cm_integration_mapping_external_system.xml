@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="external_system" table="x_snc_int_cm_integration_mapping" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>external_system</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jira</label>
+            <language>en</language>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <sequence>0</sequence>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-08 15:47:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fcdd7a98db9a009042a384735b9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-08 15:47:34</sys_updated_on>
+            <value>Jira</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>external_system</element>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-08 15:47:34</sys_created_on>
+            <sys_id>b8dd7a98db9a009042a384735b9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>external_system</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_choice_x_snc_int_cm_integration_mapping_external_system</sys_update_name>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-08 15:47:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

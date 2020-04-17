@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="project" label="Project" language="en" table="var__m_sys_hub_flow_input_75c3d941db1240906d3adf8b4b9619a0">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <help/>
+            <hint/>
+            <label>Project</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_75c3d941db1240906d3adf8b4b9619a0</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-10 15:59:43</sys_created_on>
+            <sys_id>56c31d41db1240906d3adf8b4b961920</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_75c3d941db1240906d3adf8b4b9619a0_project_en</sys_update_name>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-10 15:59:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

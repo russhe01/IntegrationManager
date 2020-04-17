@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD938ad1d1235e4090b7b10a186d674789</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>4afab2d4db9a009042a384735b961982</scope_name>
+        <serialized_content>{"FlowDesigner:FD938ad1d1235e4090b7b10a186d674789":{"$COCollectionField":[{"fieldobj_child0":{"FDff6a51d1765e4090b0a85c549cc3b740":["Any"],"FDff6a51d1765e4090b0a85c549cc3b740.$field_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"child_hint\":\"\",\"child_maxsize\":\"\",\"label\":\"fieldobj\",\"mandatory\":\"true\",\"child_name\":\"fieldobj_child0\",\"uiTypeLabel\":\"array.object\",\"child_label\":\"fieldobj_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"array.object\",\"child_defaultValue\":\"\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"fieldobj\",\"mandatory\":\"true\",\"child_name\":\"fieldobj_child0\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD938ad1d1235e4090b7b10a186d674789\",\"child_label\":\"fieldobj_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD938ad1d1235e4090b7b10a186d674789.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"fieldobj\",\"mandatory\":\"true\",\"child_name\":\"fieldobj_child0\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD938ad1d1235e4090b7b10a186d674789\",\"child_label\":\"fieldobj_child0\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>up3_russell.shear</sys_created_by>
+        <sys_created_on>2020-01-11 11:07:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>578ad1d1db5e40906d3adf8b4b961989</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD938ad1d1235e4090b7b10a186d674789</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+        <sys_update_name>sys_complex_object_578ad1d1db5e40906d3adf8b4b961989</sys_update_name>
+        <sys_updated_by>up3_russell.shear</sys_updated_by>
+        <sys_updated_on>2020-01-11 11:07:46</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

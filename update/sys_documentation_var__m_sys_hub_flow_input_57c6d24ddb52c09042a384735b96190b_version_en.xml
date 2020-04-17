@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="version" label="Version" language="en" table="var__m_sys_hub_flow_input_57c6d24ddb52c09042a384735b96190b">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>version</element>
+            <help/>
+            <hint/>
+            <label>Version</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_57c6d24ddb52c09042a384735b96190b</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-10 20:52:33</sys_created_on>
+            <sys_id>3bc6d24ddb52c09042a384735b96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Version</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_57c6d24ddb52c09042a384735b96190b_version_en</sys_update_name>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-10 20:52:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

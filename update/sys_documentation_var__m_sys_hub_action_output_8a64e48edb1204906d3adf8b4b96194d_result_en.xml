@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="result" label="result" language="en" table="var__m_sys_hub_action_output_8a64e48edb1204906d3adf8b4b96194d">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>result</element>
+            <help/>
+            <hint/>
+            <label>result</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_8a64e48edb1204906d3adf8b4b96194d</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-13 15:06:41</sys_created_on>
+            <sys_id>2264e48edb1204906d3adf8b4b9619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>result</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_8a64e48edb1204906d3adf8b4b96194d_result_en</sys_update_name>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-13 15:06:41</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

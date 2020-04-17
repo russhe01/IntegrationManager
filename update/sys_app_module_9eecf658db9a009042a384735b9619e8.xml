@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Integration Configuration Manager">a5bb36d4db9a009042a384735b961916</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Integration Mappings</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_int_cm_integration_mapping</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_int_cm.integration_cm.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>up3_justin.loftas</sys_created_by>
+        <sys_created_on>2020-01-08 15:43:35</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9eecf658db9a009042a384735b9619e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Integration Mappings</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+        <sys_update_name>sys_app_module_9eecf658db9a009042a384735b9619e8</sys_update_name>
+        <sys_updated_by>up3_justin.loftas</sys_updated_by>
+        <sys_updated_on>2020-01-08 15:43:35</sys_updated_on>
+        <timeline_page/>
+        <title>Integration Mappings</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

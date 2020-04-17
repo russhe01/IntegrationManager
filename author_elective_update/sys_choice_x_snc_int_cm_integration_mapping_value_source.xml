@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="value_source" table="x_snc_int_cm_integration_mapping" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>value_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Specific value</label>
+            <language>en</language>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <sequence>0</sequence>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-08 15:50:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec8efad8db9a009042a384735b9619cc</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-09 08:29:54</sys_updated_on>
+            <value>specific_value</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>value_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Field</label>
+            <language>en</language>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <sequence>1</sequence>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-08 15:50:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a08efad8db9a009042a384735b9619ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-08 15:50:52</sys_updated_on>
+            <value>field</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>value_source</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Script</label>
+            <language>en</language>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <sequence>2</sequence>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-09 08:29:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94236e2cdb96409042a384735b961971</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-09 08:29:59</sys_updated_on>
+            <value>script</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>value_source</element>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-08 15:50:34</sys_created_on>
+            <sys_id>688efad8db9a009042a384735b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>value_source</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_choice_x_snc_int_cm_integration_mapping_value_source</sys_update_name>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-08 15:50:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

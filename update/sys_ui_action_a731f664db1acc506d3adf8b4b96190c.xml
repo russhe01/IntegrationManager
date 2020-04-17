@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_action">
+    <sys_ui_action action="INSERT_OR_UPDATE">
+        <action_name>view_jira_rec</action_name>
+        <active>true</active>
+        <client>true</client>
+        <client_script_v2><![CDATA[function onClick(g_form) {
+
+}]]></client_script_v2>
+        <comments/>
+        <condition>new x_snc_int_cm.IntegrationUtils().canViewJiraIssue(current)</condition>
+        <form_action>true</form_action>
+        <form_button>true</form_button>
+        <form_button_v2>false</form_button_v2>
+        <form_context_menu>false</form_context_menu>
+        <form_link>false</form_link>
+        <form_menu_button_v2>false</form_menu_button_v2>
+        <form_style>primary</form_style>
+        <hint/>
+        <isolate_script>true</isolate_script>
+        <list_action>false</list_action>
+        <list_banner_button>false</list_banner_button>
+        <list_button>false</list_button>
+        <list_choice>false</list_choice>
+        <list_context_menu>false</list_context_menu>
+        <list_link>false</list_link>
+        <list_save_with_form_button>false</list_save_with_form_button>
+        <list_style/>
+        <name>View Jira Record</name>
+        <onclick>jiraRec()</onclick>
+        <order>-500</order>
+        <script><![CDATA[function jiraRec() {
+	
+	
+var url = new GlideURL(g_scratchpad.jira_url + '/browse/' + g_form.getValue('external_reference'));  
+var w = getTopWindow();
+w.popupOpenFocus(url.getURL(), "_blank", 200, 200,'resizable=yes,scrollbars=1',false, false);
+w.focus();  
+return false;  
+} ]]></script>
+        <show_insert>false</show_insert>
+        <show_multiple_update>false</show_multiple_update>
+        <show_query>false</show_query>
+        <show_update>true</show_update>
+        <sys_class_name>sys_ui_action</sys_class_name>
+        <sys_created_by>up3_russell.shear</sys_created_by>
+        <sys_created_on>2020-01-09 09:31:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a731f664db1acc506d3adf8b4b96190c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>View Jira Record</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+        <sys_update_name>sys_ui_action_a731f664db1acc506d3adf8b4b96190c</sys_update_name>
+        <sys_updated_by>up3_russell.shear</sys_updated_by>
+        <sys_updated_on>2020-01-20 16:40:20</sys_updated_on>
+        <table>x_snc_issue_man_issue</table>
+        <ui11_compatible>true</ui11_compatible>
+        <ui16_compatible>false</ui16_compatible>
+    </sys_ui_action>
+</record_update>

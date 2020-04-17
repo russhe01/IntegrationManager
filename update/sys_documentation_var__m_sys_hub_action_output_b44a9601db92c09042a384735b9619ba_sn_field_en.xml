@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sn_field" label="sn_field" language="en" table="var__m_sys_hub_action_output_b44a9601db92c09042a384735b9619ba">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_field</element>
+            <help/>
+            <hint/>
+            <label>sn_field</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_b44a9601db92c09042a384735b9619ba</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-11 12:09:34</sys_created_on>
+            <sys_id>24b86ddddb5e40906d3adf8b4b961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_field</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_b44a9601db92c09042a384735b9619ba_sn_field_en</sys_update_name>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-11 12:09:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

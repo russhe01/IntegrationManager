@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="webhook_event" table="var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Issue Created</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>2</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1a85551db5e40906d3adf8b4b961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>jira:issue_created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Issue Updated</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>3</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9a85551db5e40906d3adf8b4b96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>jira:issue_updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Issue Deleted</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>4</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29a85551db5e40906d3adf8b4b96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>jira:issue_deleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Comment Created</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>5</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65a85551db5e40906d3adf8b4b961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>comment_created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Comment Updated</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>6</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a1a85551db5e40906d3adf8b4b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>comment_updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Comment Deleted</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>7</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>eda85551db5e40906d3adf8b4b961991</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>comment_deleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Worklog Created</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>8</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2da85551db5e40906d3adf8b4b961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>worklog_created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Worklog Updated</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>9</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69a85551db5e40906d3adf8b4b961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>worklog_updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Worklog Deleted</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>10</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5a85551db5e40906d3adf8b4b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>worklog_deleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attachment Created</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>11</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1a85551db5e40906d3adf8b4b961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>attachment_created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Attachment Deleted</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>12</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21a85551db5e40906d3adf8b4b961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>attachment_deleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Created</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>13</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6da85551db5e40906d3adf8b4b961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>project_created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Updated</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>14</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9a85551db5e40906d3adf8b4b961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>project_updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Project Deleted</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>15</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5a85551db5e40906d3adf8b4b961998</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>project_deleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Version Created</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>16</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25a85551db5e40906d3adf8b4b961999</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>jira:version_created</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Version Updated</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>17</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>61a85551db5e40906d3adf8b4b96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>jira:version_updated</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Version Deleted</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>18</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ada85551db5e40906d3adf8b4b96199a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+            <value>jira:version_deleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Version Released</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>19</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9a85551db5e40906d3adf8b4b96199b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:28</sys_updated_on>
+            <value>jira:version_released</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Version Unreleased</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>20</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29a85551db5e40906d3adf8b4b96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:28</sys_updated_on>
+            <value>jira:version_unreleased</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>webhook_event</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Version Moved</label>
+            <language>en</language>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sequence>21</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65a85551db5e40906d3adf8b4b96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:28</sys_updated_on>
+            <value>jira:version_moved</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>webhook_event</element>
+            <name>var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2020-01-11 10:59:27</sys_created_on>
+            <sys_id>a1a85551db5e40906d3adf8b4b96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>webhook_event</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_hub_flow_input_85a85551db5e40906d3adf8b4b96194e_webhook_event</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2020-01-11 10:59:27</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

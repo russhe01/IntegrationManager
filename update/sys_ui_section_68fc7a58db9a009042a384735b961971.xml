@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="68fc7a58db9a009042a384735b961971" sys_domain="global" table="x_snc_int_cm_integration_mapping" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>155e5eeadb16089042a384735b961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <text/>
+            <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>0</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e15e5eeadb16089042a384735b961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>1</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>655e5eeadb16089042a384735b961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>2</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e55edeeadb16089042a384735b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>interaction_type</element>
+            <position>3</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>695edeeadb16089042a384735b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>table</element>
+            <position>4</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e95edeeadb16089042a384735b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>6d5edeeadb16089042a384735b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_record</element>
+            <position>6</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>ed5edeeadb16089042a384735b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_table</element>
+            <position>7</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>615edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relationship_table</element>
+            <position>8</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e15edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>655edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>155e5eeadb16089042a384735b961968</element>
+            <position>10</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e55edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>11</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>695edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>value_source</element>
+            <position>12</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e95edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>field</element>
+            <position>13</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>6d5edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_field</element>
+            <position>14</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>ed5edeeadb16089042a384735b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>value_type</element>
+            <position>15</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>615edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>value</element>
+            <position>16</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e15edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>17</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>655edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>external_system</element>
+            <position>18</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e55edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>environment</element>
+            <position>19</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>695edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>external_column_name</element>
+            <position>20</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>e95edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>21</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>6d5edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>script</element>
+            <position>22</position>
+            <sys_created_by>up3_russell.shear</sys_created_by>
+            <sys_created_on>2020-01-15 13:16:19</sys_created_on>
+            <sys_id>ed5edeeadb16089042a384735b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_int_cm_integration_mapping" sys_domain="global" view="Default view">68fc7a58db9a009042a384735b961971</sys_ui_section>
+            <sys_updated_by>up3_russell.shear</sys_updated_by>
+            <sys_updated_on>2020-01-15 13:16:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_int_cm_integration_mapping</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-08 15:43:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68fc7a58db9a009042a384735b961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_int_cm_integration_mapping</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_ui_section_68fc7a58db9a009042a384735b961971</sys_update_name>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-08 15:43:44</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

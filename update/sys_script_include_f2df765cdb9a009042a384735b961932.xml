@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_snc_int_cm.IntegrationUtils</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>IntegrationUtils</name>
+        <script><![CDATA[var IntegrationUtils = Class.create();
+IntegrationUtils.prototype = {
+	
+	TABLES : {
+		MAPPING : 'x_snc_int_cm_integration_mapping'
+	},
+	
+	ROLES : {
+		JIRA_USER : 'x_snc_int_cm.jira_integration'
+	},
+	
+    initialize: function() {
+		this.payload = {};
+		this.environment = 'Development';
+	},
+
+	process : function(){
+		var tables = ['x_snc_issue_man_issue'];
+		return tables;
+
+	},
+	
+	setEnvironment : function (environment){
+		if (gs.nil(environment)){
+			return;
+		}
+		this.environment = environment;
+	},
+	
+	getConfigurationMapping : function (system, source, interactionType){
+		if (gs.nil(source) || typeof source !== 'object'){
+			return;
+		}
+		var mappingGR = new GlideRecord(this.TABLES.MAPPING);
+		mappingGR.addActiveQuery();
+		mappingGR.addQuery('table', source.getTableName());
+		mappingGR.addQuery('external_system', system);
+		mappingGR.addQuery('environment', this.environment);
+		if (gs.nil(interactionType)){
+			mappingGR.addQuery('interaction_type', 'both');
+		}
+		else {
+			mappingGR.addQuery('interaction_type', interactionType).addOrCondition('interaction_type', 'both');
+		}
+		mappingGR.query();
+		while (mappingGR.next()){
+			this.payload[mappingGR.getValue('external_column_name')] = this._getMappingValue(source, mappingGR);
+		}
+		return true;
+
+	},
+	
+	_getMappingValue : function (source, mapping){
+		var evaluator = new GlideScopedEvaluator();
+		var valueType = 'value';
+		var field = '';
+		var value = '';
+		var valueSource = mapping.getValue('value_source');
+		switch (valueSource){
+			case 'specific_value':
+				value = mapping.getValue('value');
+				break;
+			case 'field':
+				field = mapping.getValue('field');
+				valueType = mapping.getValue('value_type');
+				if (valueType == 'value'){
+					value = source.getValue(field);
+				}
+				else {
+					value = source.getDisplayValue(field);
+				}
+				break;
+			case 'script':
+				var variables = {
+					current: source
+				};
+				value = evaluator.evaluateScript(mapping, 'script', variables);
+				break;
+		}
+		return value;
+	},
+	
+	getPayload : function (){
+		return this.payload;
+	},
+	
+	setPayload : function (payload){
+		if (!gs.nil(payload) || typeof payload !== 'object'){
+			this.payload = payload;
+		}
+	},
+	
+	//UI Action Condition: Create Jira Issue
+	canCreateJiraIssue : function (issue){
+		var answer = false;
+		var hasRole = gs.hasRole(this.ROLES.JIRA_USER);
+		var state = issue.getValue('state');	
+		var correctState = state == -400 || state == -401;
+		var hasNo3rdPartyState = gs.nil(issue.getValue('correlation_id'));
+		var source = !gs.nil(issue.getValue('source'));
+		
+		answer = hasRole && correctState && hasNo3rdPartyState && source;
+		return answer;
+	},
+	
+	//UI Action Condition: View Jira Record
+	canViewJiraIssue: function (issue){
+		var answer = false;
+		
+		if(!issue.external_reference.nil()) {
+			
+		var ref = issue.external_reference.split('4LM');
+		answer = (ref.length > 2) ? false : true;
+		}
+		
+		return answer;
+	},
+
+    type: 'IntegrationUtils'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>up3_justin.loftas</sys_created_by>
+        <sys_created_on>2020-01-08 16:00:38</sys_created_on>
+        <sys_id>f2df765cdb9a009042a384735b961932</sys_id>
+        <sys_mod_count>20</sys_mod_count>
+        <sys_name>IntegrationUtils</sys_name>
+        <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+        <sys_update_name>sys_script_include_f2df765cdb9a009042a384735b961932</sys_update_name>
+        <sys_updated_by>up3_russell.shear</sys_updated_by>
+        <sys_updated_on>2020-01-20 16:50:55</sys_updated_on>
+    </sys_script_include>
+</record_update>

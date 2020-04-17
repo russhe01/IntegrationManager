@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDdf94651deb5e40903be825c5d6fa3389</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>4afab2d4db9a009042a384735b961982</scope_name>
+        <serialized_content>{"FlowDesigner:FDdf94651deb5e40903be825c5d6fa3389":{},"FlowDesigner:FDdf94651deb5e40903be825c5d6fa3389.$type_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDdf94651deb5e40903be825c5d6fa3389\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"testObj\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>up3_russell.shear</sys_created_by>
+        <sys_created_on>2020-01-11 11:51:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9394651ddb5e40906d3adf8b4b96198a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FDdf94651deb5e40903be825c5d6fa3389</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+        <sys_update_name>sys_complex_object_9394651ddb5e40906d3adf8b4b96198a</sys_update_name>
+        <sys_updated_by>up3_russell.shear</sys_updated_by>
+        <sys_updated_on>2020-01-11 11:52:03</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

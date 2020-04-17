@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="sn_fieldvaltype" label="sn_fieldValType" language="en" table="var__m_sys_hub_step_ext_output_4a64e48edb1204906d3adf8b4b961974">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>sn_fieldvaltype</element>
+            <help/>
+            <hint/>
+            <label>sn_fieldValType</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_output_4a64e48edb1204906d3adf8b4b961974</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>up3_justin.loftas</sys_created_by>
+            <sys_created_on>2020-01-13 15:06:39</sys_created_on>
+            <sys_id>5264e48edb1204906d3adf8b4b96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sn_fieldValType</sys_name>
+            <sys_package display_value="Integration Configuration Manager" source="x_snc_int_cm">4afab2d4db9a009042a384735b961982</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Integration Configuration Manager">4afab2d4db9a009042a384735b961982</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_output_4a64e48edb1204906d3adf8b4b961974_sn_fieldvaltype_en</sys_update_name>
+            <sys_updated_by>up3_justin.loftas</sys_updated_by>
+            <sys_updated_on>2020-01-13 15:06:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
